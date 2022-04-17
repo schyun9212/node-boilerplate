@@ -1,1 +1,1 @@
-export {};
+export const core = () => 0;

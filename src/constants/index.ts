@@ -1,1 +1,1 @@
-export {};
+export const FOO = 10;
